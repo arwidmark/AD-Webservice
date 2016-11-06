@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="AD.asmx.cs" Class="Frontend.ConfigMgr" %>
