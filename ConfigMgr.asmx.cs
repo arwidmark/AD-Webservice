@@ -58,7 +58,7 @@ namespace Frontend
             try
             {
 
-                // Connect to AD
+                // Connect to Active Directory
                 PrincipalContext AD = new PrincipalContext(ContextType.Domain, FQDNDomainName);
 
                 string controller = AD.ConnectedServer;
